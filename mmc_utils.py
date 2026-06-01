@@ -1,12 +1,12 @@
-# Auto-generated M/M/C Queuing Model utilities - 2026-05-31
+# Auto-generated M/M/C Queuing Model utilities - 2026-06-01
 # Queuing System Implementation - Optimization using M/M/C Model
 
 import math
 import datetime
 from typing import Optional
 
-MODULE_VERSION = "1.0.7"
-GENERATED_DATE = "2026-05-31"
+MODULE_VERSION = "1.0.1"
+GENERATED_DATE = "2026-06-01"
 
 
 def erlang_c(c: int, rho: float) -> float:
